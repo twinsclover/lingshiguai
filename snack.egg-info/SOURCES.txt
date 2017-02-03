@@ -1,0 +1,7 @@
+snack/__init__.py
+snack/snack.py
+snack.egg-info/PKG-INFO
+snack.egg-info/SOURCES.txt
+snack.egg-info/dependency_links.txt
+snack.egg-info/requires.txt
+snack.egg-info/top_level.txt
